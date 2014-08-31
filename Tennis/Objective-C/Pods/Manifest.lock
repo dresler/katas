@@ -1,0 +1,10 @@
+PODS:
+  - KNMParametrizedTests (0.1.1)
+
+DEPENDENCIES:
+  - KNMParametrizedTests
+
+SPEC CHECKSUMS:
+  KNMParametrizedTests: 8f3c410fd767acb26a04586d2ad6010d0d9bf496
+
+COCOAPODS: 0.33.1
